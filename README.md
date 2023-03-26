@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nebulosa-R
 - 👀 I’m interested in software development and data science.
-- 🌱 I’m currently learning in deep learning.
-- 💞️ I’m looking to collaborate on machine learning teams.
+- 🌱 I’m currently learning data engineering.
+- 💞️ I’m looking to collaborate on data teams.
 
 <!---
 Nebulosa-R/Nebulosa-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
